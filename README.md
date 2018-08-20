@@ -1,2 +1,2 @@
-# Responsive-Portfolio
-Responsive without bootstrap
+# Basic-Portfolio
+This is a very basic portfolio website.
